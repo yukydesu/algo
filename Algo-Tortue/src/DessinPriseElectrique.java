@@ -1,3 +1,4 @@
+//B5
 public class DessinPriseElectrique {
     public static void main(String[] args) {
 
