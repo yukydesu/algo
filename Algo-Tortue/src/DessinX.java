@@ -19,7 +19,5 @@ public class DessinX {
         tortue.tournerADroite(120);
         tortue.avancer(100);
 
-
-
     }
 }
