@@ -23,8 +23,6 @@ public class Multiplication3Essais {
 		else{
 			System.out.println("Vous n'avez plus d'essaie...");
 		}
-
-		// A COMPLETER
 	}
 
 	// A NE PAS MODIFIER

@@ -12,9 +12,9 @@ public class CalculMoyenne {
             int entier = scanner.nextInt();
             compteur ++;
             liste += entier;
-            System.out.println("Voulez vous continuez ?");
+            System.out.print("Voulez vous continuez ?");
             reponse = scanner.next().charAt(0);
-        } while (reponse == 'Y' || reponse == 'y');
+        } while (reponse == 'Y' || reponse == 'y' || reponse == 'O' || reponse == 'o');
         System.out.println("Moyenne : " + (liste/compteur));
     }
 }
